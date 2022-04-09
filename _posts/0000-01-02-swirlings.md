@@ -2,7 +2,7 @@
 layout: presentation
 ---
 
-
+""
 
 {% for post in site.posts reversed %}
 	{% include slide.html %}
